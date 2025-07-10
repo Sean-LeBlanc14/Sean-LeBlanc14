@@ -52,8 +52,8 @@ Features real-time querying, authentication, chat history, and a clean developer
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeanLGrappendorf&show_icons=true&theme=default&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanLGrappendorf&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sean-LeBlanc14&show_icons=true&theme=default&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-LeBlanc14&layout=compact&theme=default" />
 </p>
 
 ---
